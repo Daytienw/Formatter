@@ -10,5 +10,5 @@ public class Formatter {
             System.out.print(String.format("%s", args[0]));
             System.out.print(String.format(" <%s>", args[1]));
         }
-    }jkj
+    }
 }
