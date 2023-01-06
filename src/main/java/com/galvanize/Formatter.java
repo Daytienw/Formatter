@@ -1,3 +1,5 @@
+package com.galvanize;
+
 public class Formatter {
     public static void main(String[] args) {
         if (args.length == 1) {
